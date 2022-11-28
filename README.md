@@ -22,7 +22,7 @@ I performed the following to achieve the forgery.
 
 ## Results
 ### Watch the video here
-[![# False Positive Pegasus Spyware Forging With MVT-Tool](https://i.postimg.cc/zBBYdBk0/forging-pegasus-youtube.jpg)]("https://www.youtube.com/watch?v=3KHmJVO547Y")
+[![# False Positive Pegasus Spyware Forging With MVT-Tool](https://i.postimg.cc/zBBYdBk0/forging-pegasus-youtube.jpg)](https://www.youtube.com/watch?v=3KHmJVO547Y")
 
 `WARNING  [mvt.ios.cli] The analysis of the backup produced 2 detections!`
 
